@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+
+    <string name="mi_match">Matchs</string>
+    <string name="mi_team">Teams</string>
+    <string name="mi_favorite">Favorite</string>
+
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_prev_match">Prev. Match</string>
+    <string name="title_next_match">Next Match</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="page_past">Last Match</string>
+    <string name="page_detail">Detail Match</string>
+    <string name="page_next">Next Match</string>
+    <string name="page_favorite">Favorite</string>
+
+    <string name="sample_score">3</string>
+    <string name="sample_date">Sab, 07 Aug 2018</string>
+
+    <string name="vs">vs</string>
+    <string name="score">score</string>
+    <string name="favorites">Favorites</string>
+
+
+    <!-- DATA -->
+    <string-array name="league_name">
+        <item>English Premier League</item>
+        <item>Spanish La Liga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>German Bundesliga</item>
+        <item>FIFA World Cup</item>
+    </string-array>
+
+    <integer-array name="league_id">
+        <item>4328</item>
+        <item>4335</item>
+        <item>4332</item>
+        <item>4334</item>
+        <item>4331</item>
+        <item>4429</item>
+    </integer-array>
+
+    <string name="overview">Overview</string>
+    <string name="player">Player</string>
+
+</resources>
